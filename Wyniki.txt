@@ -1,0 +1,6 @@
+Wiadomosc A: Testowa wiadomosc
+Wiadomosc B: Testowa wiadomosc
+Hasz z wyslanej wiadomosci A: 18a195380908baa4f6677a34841a03ec0027f5408338d46b3d08c615a9ee7d88
+Hasz z odebranej wiadomosci B: 18a195380908baa4f6677a34841a03ec0027f5408338d46b3d08c615a9ee7d88
+Hasz z odszyfrowanej wyslanej wiadomosci: Nie mozna odszyfrowac haszu z powodu zlego klucza
+Czy hashe wiadomosci sa takie same? False
